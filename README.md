@@ -2,6 +2,11 @@
 
 This project is an image gallery application built using HTML, CSS, JavaScript, and Bootstrap. The application allows users to browse images in a grid layout and click on an image to view it in an enlarged modal window.
 
+## Screenshot
+
+![Image Gallery Screenshot](images/screenshot.png)
+![Image Gallery Screenshot](images/screenshot2.png)
+
 ## Features
 
 - **Grid Layout**: All images in the gallery are displayed in a grid format.
@@ -39,11 +44,6 @@ image-gallery/
 ├── images/          # Images used in the gallery
 └── README.md        # Project documentation file
 ```
-
-## Screenshot
-
-![Image Gallery Screenshot](images/screenshot.png)
-![Image Gallery Screenshot](images/screenshot2.png)
 
 ## Contributing
 
